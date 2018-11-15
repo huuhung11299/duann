@@ -1,0 +1,23 @@
+{
+  "name": "duann",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "hùng nguyễn <huuhung112999@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/huuhung11299/duann",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "animation.css#^3.7.0",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "owl.carousel": "^2.3.4"
+  }
+}

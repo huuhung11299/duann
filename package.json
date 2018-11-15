@@ -1,0 +1,23 @@
+{
+  "name": "duann",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huuhung11299/duann.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huuhung11299/duann/issues"
+  },
+  "homepage": "https://github.com/huuhung11299/duann#readme",
+  "dependencies": {
+    "pug": "^2.0.3",
+    "sass": "^1.15.0"
+  }
+}
